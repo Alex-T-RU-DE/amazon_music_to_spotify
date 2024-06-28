@@ -7,9 +7,9 @@ Here you may find a guide for to export amazon music playlist.
 2. Decrease window size to minimum 
 3. Scroll down until the end of the playlist
 4. Copy following code
-```js
-<!-- include: src/amazon_music_to_text.js -->
-```
+```javascript
+<script src="https://github.com/Alex-T-RU-DE/amazon_music_to_spotify/blob/main/amazon_music_to_text.js"></script>
+
 5. Open console by clicking combination ctrl+shift+j
 6. Insert code to the terminal and click enter
 7. Copy everything from the window that appeared after script execution
