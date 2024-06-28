@@ -8,6 +8,6 @@ Here you may find a guide for to export amazon music playlist.
 3. Scroll down until the end of the playlist
 4. Copy following code
 ```js
-<!-- include: amazon_music_to_text.js -->
+<!-- include: ./amazon_music_to_text.js -->
 ```
 5. Open console by clicking combination ctrl+shift+j
